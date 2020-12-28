@@ -1,0 +1,33 @@
+:root{
+
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    font-size: 2rem;
+    font-family: sans-serif;
+    color: #ffffff;
+    background-color: #000000;
+    
+    
+   
+    
+}
+h1{
+font-size: 5rem;
+
+
+}
+
+
+#background-image{
+    width: 100%;
+    filter: blur(5px);
+    
+}
